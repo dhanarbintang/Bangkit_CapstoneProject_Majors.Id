@@ -2,6 +2,7 @@
 Bangkit Capstone Project for Majors.Id Chatbot Development
 
 In Developing This Chatbot we used a kaggle dataset which is listed below:
+
 https://www.kaggle.com/fivethirtyeight/fivethirtyeight-college-majors-dataset?select=majors-list.csv
 
 Steps involved in creating this chatbot are listed below :
@@ -20,4 +21,5 @@ For Details intruction of the step above:
 
 
 This project is heavily inspired from the article listed below :
+
 https://towardsdatascience.com/how-to-create-a-chatbot-with-python-deep-learning-in-less-than-an-hour-56a063bdfc44
